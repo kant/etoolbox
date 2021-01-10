@@ -67,7 +67,7 @@ This creates the following installers:
 
 This project is licensed under the MIT license, Copyright (c) 2020 André Masson. For more information see `LICENSE.md`.
 
-## Usefull links
+## Useful links
 
 * https://github.com/electron/electron/issues/7300
 * https://stackoverflow.com/questions/41551110/unable-to-override-app-name-on-mac-os-electron-menu
